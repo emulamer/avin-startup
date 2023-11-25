@@ -2,5 +2,5 @@ Package: avin-startup
 Version: 1.0.0
 Maintainer: Max <max@emulamer.com>
 Description: Switch to AV IN at boot
-Architecture: pigeon-glasses-v2
+Architecture: pigeon-glasses
 Depends: dinit
