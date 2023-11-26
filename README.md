@@ -1,8 +1,7 @@
-# Switch to AV IN at startup on goggles v2
-Runs setprop dji.factory.avin_test 1 at startup which seems to go to AV IN mode.
-Don't really know what other side effects of this prop could be, but seems to work for me.
+# Automatically switches to AV in on start up
+Handy for when you want your goggles to start up directly in AV IN mode without having to navigate the menu.
 
-Not sure if it could work on other goggles or not.
+Internally, it runs setprop dji.factory.avin_test 1 after boot.
 
 
-Copied from https://github.com/stylesuxx/ipk-example
+Package stuff copied from https://github.com/stylesuxx/ipk-example
