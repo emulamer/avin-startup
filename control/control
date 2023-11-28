@@ -1,6 +1,6 @@
 Package: avin-startup
-Version: 1.0.0
+Version: 1.0.1
 Maintainer: Max <max@emulamer.com>
-Description: Automatically switch to AV IN at start up
+Description: Automatically switch to AV IN at start up.  Has no effect in O3 mode.
 Architecture: pigeon-glasses
 Depends: dinit
